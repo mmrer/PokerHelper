@@ -4,7 +4,7 @@ from aiogram.types import ReplyKeyboardMarkup
 from aiogram.utils import executor
 import content
 
-bot = Bot(token='6882240530:AAGhdgoctGuEa2IIdfO-steXW0FcDQiLsZk')
+bot = Bot(token='TOKEN-BOT')
 dp = Dispatcher(bot)
 Lan1 = 2
 users = {}
